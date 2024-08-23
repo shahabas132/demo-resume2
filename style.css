@@ -1,0 +1,99 @@
+
+.pro{
+    color: #982B1C;
+}
+
+.top-container{
+    background-color: #FDF7E4;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+h1{
+    color: #800000;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    font-size: 4.625rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.programmer{
+    height: 300px;
+    margin-left: 40%;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+
+.photo{
+    display: flex;
+}
+
+
+.profile-img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin-left: 44%;
+}
+
+.intro{
+    margin: auto;
+    width: 30%;
+    margin-top: 50px;
+    font-family:"Playpen Sans", cursive;
+    text-align: center;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+.year{
+    font-weight: lighter;
+    margin-top: 20px;
+}
+
+h4{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.list{
+    margin-bottom: 10px;
+}
+
+
+.bottom-container {
+    background-color: #982B1C;
+    padding: 50px 0 20px;
+}
+
+body{
+    background-color: #F8EDE3;
+}
+
+h3{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.contact-message{
+    text-align: center;
+    margin-top: 30px;
+}
